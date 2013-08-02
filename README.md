@@ -14,4 +14,4 @@ your status through it.
 *  update status with ajax
 
 ###License###
-This project is under the MIT license. See [LICENSE](https://github.com/superalsrk/signinwithtwitter/master/LICENSE) for more information.
+This project is under the MIT license. See [LICENSE](https://github.com/superalsrk/signinwithtwitter/blob/master/LICENSE) for more information.
